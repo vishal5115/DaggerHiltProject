@@ -20,7 +20,7 @@ dependencies {
 }
 
 
-#For Appliacion class
+#For Applicaion class
 
 @HiltAndroidApp
 class ExampleApplication : Application() { ... }
